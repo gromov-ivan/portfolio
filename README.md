@@ -1,5 +1,3 @@
-# Portfolio — Ivan Gromov
+# Ivan Gromov
 
-Full-Stack Developer portfolio (PDF):
-
-- [Ivan_Gromov_Portfolio.pdf](https://gromov-ivan.github.io/portfolio/Ivan_Gromov_Portfolio.pdf)
+[Portfolio (PDF)](https://gromov-ivan.github.io/portfolio/Ivan_Gromov_Portfolio.pdf)
